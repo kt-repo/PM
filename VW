@@ -29,3 +29,12 @@ Would clear structured processes like stage gates, creating a charter, and getti
 Decision gate - held at end of a phase where performance and progress reviewed
 PM - assigned to lead the team responsible for achieving project objectives
   communicates to team and stakeholders
+charter formally authorizes the project
+  purpose, desc, goals, key requirements from stakeholders
+  major stakeholders sign charter to acknowledge commitment to project
+  kicks off project
+  makes sure goals are accurately represented to stakeholders
+business case before charter - why project should be done
+  identifies needs or problems project will address
+stakeholder - anyone involved in project whose interest is + ir - affected by performance or completion of the project
+  
